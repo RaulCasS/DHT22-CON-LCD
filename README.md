@@ -51,7 +51,7 @@ lcd.print("wokwi Online IoT");
 
 ![](https://github.com/RaulCasS/DHT22-CON-LCD/blob/main/Captura%20de%20pantalla%202024-12-12%20213405.png?raw=true)
 
-## RESULTAOS
+## RESULTADOS
 
 ![](https://github.com/RaulCasS/DHT22-CON-LCD/blob/main/Captura%20de%20pantalla%202024-12-12%20213611.png?raw=true)
 
@@ -59,7 +59,8 @@ lcd.print("wokwi Online IoT");
 
 Ing. Raúl Castañeda Sotelo
 
-[WOKWI]()
+[WOKWI](https://github.com/RaulCasS)
+
 
 
 
