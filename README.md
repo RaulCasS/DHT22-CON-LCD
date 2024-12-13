@@ -49,5 +49,11 @@ lcd.print("wokwi Online IoT");
 
 ## CONEXIÓN
 
+![](https://github.com/RaulCasS/DHT22-CON-LCD/blob/main/Captura%20de%20pantalla%202024-12-12%20213405.png?raw=true)
+
+## RESULTAOS
+
 ![]()
+
+
 
